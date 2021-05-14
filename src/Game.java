@@ -8,7 +8,7 @@ import pkg.Constants;
 //public class GameDesktopLauncher {
     public class Game {
         public static void main(String[] arg) {
-            //System.out.println("hello");
+            System.out.println("hello");
 
             //String dir = System.getProperty("user.dir");
             Constants c = new Constants();
